@@ -1,0 +1,9 @@
+/obj_dir/
+
+*.json
+*.vcd
+*.bit
+*.config
+*.ys
+*.orig
+*_tb
